@@ -1,0 +1,2 @@
+Przyk³adowy komentarz.
+W asstets pliki wykorzystywane w danym projekcie.

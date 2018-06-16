@@ -1,0 +1,32 @@
+POCZATEK comp1
+<br/>
+{{zm1comp1}}
+<br/>
+<h2>{{zm2comp1.name | uppercase}} Detale zm2comp1:</h2>
+<!-- | powoduje zastosowanie wbudowanego pipa: uppercase -->
+<!-- wzor pipe opisany .......(do zrobienia) -->
+<br/>
+<div><span>id: </span>{{zm2comp1.id}}</div>
+<div><span>name: </span>{{zm2comp1.name}}</div>
+<!-- tag span ogólnie pozwala czêœciowo zmieniac wyswitlany tekst
+https://www.w3schools.com/tags/tag_span.asp  -->
+<br/>
+<br/>
+{{zm3.name2}}
+<br/>
+<!-- Poni¿ej two way bindings z formularzem -->
+
+<div>
+    <label>name:
+      <input [(ngModel)]="zm3.name2" >
+      <input [(ngModel)]="zm3.id2" >
+      <!-- ngModel wymaga importu w klasie g³ównej !!!!!! -->
+      <!-- sk³adnia do sprawdzenia -->
+    </label>
+    <br/>
+
+    <br/>
+
+    Koniec comp1
+</div>
+

@@ -1,0 +1,84 @@
+<!--Przyk³adowy komentarz tak oznaczamy przyk³ady-->
+<!-- Ctrl + Shift + / dodanie aut komentarza  -->
+<div style="text-align:center; color:blue;">
+  <h1>
+    Welcome to {{ title }}! Wzor 2 Komponenty 
+    <!--{{title}} odwo³anie do zmiennej title w root component czyli
+    app.component.ts -->
+    <!-- kolor ci¹gnie z css h1 -->
+  </h1>
+  Ponizej widok lub linki do komponentow:
+  <br/>
+  <app-comp1></app-comp1>
+  <!-- Odwo³anie do komponentu: app-comp1 -->
+  <br/>
+  <app-cos2></app-cos2>
+  <br/>
+  <br/>
+  <br/>
+  <br/>  
+  <br/>
+  A ponizej lekcja wczesniejsza :) Css zmieniono na ten z tutoriala
+  <br/>
+  <!-- znacznik h1 oznacza nag³owek h1 do uzrywania stylów css  -->
+  <img width="300" alt="Angular Logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
+  <!--  znacznik img oznacza obrazek wymagane alt i src 
+  dokumentacja przykladowa https://www.w3schools.com/html/html_images.asp-->
+  Dodatkowy tekst zeby sprawdzic kolor bez przerwy
+  <br/>
+  
+  <!--<br/> znacznik przerwy !!!!!!!zawsze zapominam :)  -->
+  Dodatkowy tekst zeby sprawdzic kolor z przerwa
+  <br/>
+  <img width="300" alt= "Test plik jpg " src="assets/test.jpg" >
+  <br/>
+  <img alt= "Test plik gif " src="assets/cos/test1.gif" >
+  <br/>
+  <img alt= "Test plik jpg w src " src="/test.jpg" >
+  <!-- trzeci nie dziala obrazki musza byæ w /assets inaczej nie dzialaja  -->
+  <br/>
+
+</div>
+
+<!-- znacznik div oznacza blok do którego ustawiono jakieœ atrybuty:
+tutaj dla atrybutu "style" ustawiono text-align oraz color   
+¿ród³o https://www.w3schools.com/html/html_blocks.asp -->
+
+<h2>Testowe linki</h2>
+<ul>
+  <li>
+    <h2><a target="_blank" rel="noopener" href="https://angular.io/tutorial">Tour of Heroes</a></h2>
+  </li>
+  <li>
+    <h2><a target="_blank" rel="noopener" href="https://github.com/angular/angular-cli/wiki">CLI Documentation</a></h2>
+  </li>
+  <li>
+    <h2><a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a></h2>
+  </li>
+  <li> <a href="https://www.wp.pl/">Testowy link WP</a>
+  <!-- tag "<a" otwiera  hyperlinks; dokumentacja techniczna:  
+  https://www.w3schools.com/html/html_links.asp -->
+</ul>
+<!--  znacznik ul oznacza nieponumerowana lista ; 
+podpunkty oznaczona jako li poni¿ej przyk³ad-->
+<ul>
+<li> B pnkt </li>
+<li> Z pnkt </li>
+<li> A pnkt </li> 
+</ul>
+<!-- poni¿ej to samo za pomoc¹ znacznik ol ( ponumerowana lista)  -->
+<ol>
+<li> B pnkt </li>
+<li> Z pnkt </li>
+<li> A pnkt </li> 
+</ol>
+<h3> Wyswietlona zmienna 2 to:
+ <br/>
+ {{zm2}}
+  <br/>
+ Oraz zmienna 3 to: {{zm3}}
+ </h3>
+<!-- test linku w komentarzu .....  -->
+
+
+
