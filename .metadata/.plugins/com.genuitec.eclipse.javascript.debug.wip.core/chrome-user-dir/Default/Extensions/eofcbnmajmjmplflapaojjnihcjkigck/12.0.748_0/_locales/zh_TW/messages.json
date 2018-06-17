@@ -1,0 +1,313 @@
+{
+   "avastAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "在線上購物時，使用 Avast 提供的價格比較與折價券擴充功能，尋找最划算的價格、交易和折價券。"
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avgAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "在線上購物時，使用 AVG 提供的價格比較與折價券擴充功能，尋找最划算的價格、交易和折價券。"
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "safePriceAskMeLater": {
+      "description": "It is showed to the user on the rating screen in order to offer it to rate extension later",
+      "message": "稍後詢問我"
+   },
+   "safePriceEnjoyQuestion_AVG": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "喜歡使用 \u003Cbr>AVG SafePrice 嗎？"
+   },
+   "safePriceEnjoyQuestion_Avast": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "喜歡使用 \u003Cbr>Avast SafePrice 嗎？"
+   },
+   "safePriceLeaveRating": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "請給予評價以表達您的喜愛。"
+   },
+   "sasAnswerNo": {
+      "message": "否"
+   },
+   "sasAnswerYes": {
+      "message": "是"
+   },
+   "sasClickToCopy": {
+      "message": "按一下以複製"
+   },
+   "sasCouponAppliedOnPage": {
+      "message": "已在這個頁面使用折價券"
+   },
+   "sasCouponCodeCopied": {
+      "message": "已將代碼複製到剪貼簿。"
+   },
+   "sasGladYouLike": {
+      "message": "很高興您喜歡！"
+   },
+   "sasHintSettings": {
+      "message": "設定"
+   },
+   "sasOpenShop": {
+      "message": "開啟商店"
+   },
+   "sasRate": {
+      "message": "立即給予評價"
+   },
+   "sasSorry": {
+      "message": "很遺憾聽到您這麼說"
+   },
+   "sasStartingPrice": {
+      "description": "%s is the minimum value off the price. Example: Starting at: $124.00",
+      "message": "起價：%s"
+   },
+   "sasWhatToDo": {
+      "message": "我們有哪些地方需要改進？"
+   },
+   "sasfeedback": {
+      "message": "提供意見反應"
+   },
+   "save": {
+      "message": "節省"
+   },
+   "spAdditionalFees": {
+      "message": "可能需要支付額外費用及稅金"
+   },
+   "spApply": {
+      "message": "使用折價券"
+   },
+   "spBetterOffersNotificationBarMessage": {
+      "message": "看到沒有？還有更多優惠"
+   },
+   "spBetterOffersNotificationMessage": {
+      "message": "看到沒有？\u003Cbr>還有更多優惠"
+   },
+   "spBetterSpecialDealsNotificationBarMessage": {
+      "message": "買越多，省越多！"
+   },
+   "spBetterSpecialDealsNotificationMessage": {
+      "message": "買越多，\u003Cbr>省越多！"
+   },
+   "spCityHotelNotificationMessage": {
+      "message": "熱門飯店："
+   },
+   "spCloseTooltip": {
+      "message": "關閉"
+   },
+   "spCopyAtCheckOut": {
+      "message": "在結帳時複製並貼上："
+   },
+   "spCouponApplied": {
+      "message": "已使用折價券。"
+   },
+   "spCouponsAvailableText": {
+      "message": "可供使用"
+   },
+   "spCouponsExpiration": {
+      "message": "到期時間："
+   },
+   "spCouponsNotificationMessage": {
+      "message": "使用折價券省錢"
+   },
+   "spCouponsSelected": {
+      "message": "已選取的折價券："
+   },
+   "spCouponsSelectedText": {
+      "message": "已選取"
+   },
+   "spCouponsTab": {
+      "message": "折價券"
+   },
+   "spGetCouponCode": {
+      "message": "取得代碼"
+   },
+   "spHelpTooltip": {
+      "message": "說明"
+   },
+   "spLoadingNotificationDescriptionMessage": {
+      "message": "我們保證不會讓您白白等候。"
+   },
+   "spLoadingNotificationMessage": {
+      "message": "正在搜尋交易..."
+   },
+   "spMinimizeTooltip": {
+      "message": "最小化"
+   },
+   "spNothingFoundCoupons": {
+      "message": "噢不...\u003Cbr>沒有折價券..."
+   },
+   "spNothingFoundOffers": {
+      "message": "噢不...\u003Cbr>沒有優惠..."
+   },
+   "spNothingFoundOthers": {
+      "message": "噢不...\u003Cbr>沒有特殊優惠..."
+   },
+   "spNotificationRedirectShowLessMessage": {
+      "message": "顯示較少"
+   },
+   "spNotificationRedirectShowMoreMessage": {
+      "message": "顯示更多"
+   },
+   "spNotificationRedirectShowRedirectMessage": {
+      "message": "顯示交易"
+   },
+   "spOfferSaving": {
+      "description": "%s will be the saving percentage of the best offer. Ex: SAVE 25%",
+      "message": "節省 %s"
+   },
+   "spOffersAndCouponsNotificationMessage": {
+      "message": "找到一些優惠與折價券。您真幸運！"
+   },
+   "spOffersTab": {
+      "message": "優惠"
+   },
+   "spOthersTab": {
+      "message": "其他"
+   },
+   "spSettingsPageCancel": {
+      "message": "取消"
+   },
+   "spSettingsPageCustomList": {
+      "message": "自訂清單"
+   },
+   "spSettingsPageCustomListItemAdd": {
+      "message": "新增"
+   },
+   "spSettingsPageCustomListItemAddSite": {
+      "message": "新增網站"
+   },
+   "spSettingsPageCustomListTitle": {
+      "message": "不在下列網站顯示任何通知："
+   },
+   "spSettingsPageCustomListTitleDesc": {
+      "message": "(每當您想查看優惠活動和折價券時，只要按一下工具列圖示就可以了)"
+   },
+   "spSettingsPageHelp": {
+      "message": "說明"
+   },
+   "spSettingsPageHelpCouponsTitle": {
+      "message": "3. 折價券"
+   },
+   "spSettingsPageHelpCouponsTitleDesc": {
+      "message": "只要按一下折價券，您就能盡情使用。如果折價券提供一組代碼，請複製代碼，並在結帳時貼到適當的欄位。如果沒有代碼，系統會自動使用折價券。"
+   },
+   "spSettingsPageHelpFAQsTitle": {
+      "message": "若要瞭解更多資訊，請造訪\u003Cspan class='asp-faqs-span'>常見問題集\u003C/span>。"
+   },
+   "spSettingsPageHelpNotificationsTitle": {
+      "message": "1. 通知"
+   },
+   "spSettingsPageHelpNotificationsTitleDesc": {
+      "message": "當 SafePrice 找到與搜尋內容相關的優惠活動或折價券，畫面上就會跳出通知。請按一下畫面上的綠色大按鈕，看看我們替您找到什麼好東西。"
+   },
+   "spSettingsPageHelpOffersTitle": {
+      "message": "2. 優惠"
+   },
+   "spSettingsPageHelpOffersTitleDesc": {
+      "message": "按一下優惠活動後，您會前往合作夥伴的信任線上商店。在商店裡，您可以利用通知列示的新價格購物。"
+   },
+   "spSettingsPageHelpOthersTitle": {
+      "message": "4. 其他"
+   },
+   "spSettingsPageHelpOthersTitleDesc": {
+      "message": "按一下畫面上列出的特殊優惠後，您會前往合作夥伴的信任線上商店。"
+   },
+   "spSettingsPageSave": {
+      "message": "儲存"
+   },
+   "spSettingsPageTitleAvast": {
+      "message": "Avast SafePrice 設定"
+   },
+   "spSettingsPageTitleAvg": {
+      "message": "AVG SafePrice 設定"
+   },
+   "spSettingsTabNotificationAccommodationsTitle": {
+      "message": "住宿優惠"
+   },
+   "spSettingsTabNotifications": {
+      "message": "通知"
+   },
+   "spSettingsTabNotificationsAccommodationsPopular": {
+      "message": "顯示要求區域的熱門飯店"
+   },
+   "spSettingsTabNotificationsAccommodationsShowBetter": {
+      "message": "每當有較優惠的飯店價格時，顯示通知"
+   },
+   "spSettingsTabNotificationsAccommodationsSimilar": {
+      "message": "顯示符合要求的類似飯店"
+   },
+   "spSettingsTabNotificationsCoupons": {
+      "message": "折價券"
+   },
+   "spSettingsTabNotificationsCouponsHide": {
+      "message": "不要通知我有折價券可以使用"
+   },
+   "spSettingsTabNotificationsCouponsHideDesc": {
+      "message": "(每當您想查看折價券時，只要按一下工具列圖示就可以了)"
+   },
+   "spSettingsTabNotificationsCouponsShowAll": {
+      "message": "每當有折價券可以使用時，顯示通知"
+   },
+   "spSettingsTabNotificationsCouponsShowOnce": {
+      "message": "只在每個網站上顯示一次"
+   },
+   "spSettingsTabNotificationsOffers": {
+      "message": "優惠"
+   },
+   "spSettingsTabNotificationsOffersBetter": {
+      "message": "只顯示較原價便宜的電子商店優惠"
+   },
+   "spSettingsTabNotificationsOffersHideAll": {
+      "message": "不要通知我有電子商店優惠可以使用"
+   },
+   "spSettingsTabNotificationsOffersHideAllDesc": {
+      "message": "(每當您想查看優惠活動時，只要按一下工具列圖示就可以了)"
+   },
+   "spSettingsTabNotificationsOffersShowAll": {
+      "message": "每當有電子商店優惠時，顯示通知"
+   },
+   "spSettingsTabNotificationsOffersTitle": {
+      "message": "電子商店優惠"
+   },
+   "spSettingsTabNotificationsOthers": {
+      "message": "其他"
+   },
+   "spSettingsTabNotificationsOthersDesc": {
+      "message": "有其他類別的特殊優惠 (運輸、金融、電力供應等) 時通知我"
+   },
+   "spSettingsTabNotificationsOthersTitle": {
+      "message": "特殊優惠"
+   },
+   "spSettingsTooltip": {
+      "message": "設定"
+   },
+   "spShippingLabel": {
+      "message": "運費與手續費最低"
+   },
+   "spShowNotificationMessage": {
+      "message": "顯示"
+   },
+   "spShowNotificationRedirectMessage": {
+      "message": "看看我們找到了什麼！"
+   },
+   "spSimilarHotelsMessage": {
+      "message": "其他飯店"
+   },
+   "spSimilarHotelsNotificationMessage": {
+      "message": "找到其他飯店！"
+   },
+   "spSocialShare": {
+      "description": "It is showed up to users in order to make them share SafePrice on Social Networks",
+      "message": "喜歡省錢的感覺嗎？獨樂樂不如眾樂樂！"
+   },
+   "spSocialShareFb": {
+      "description": "It is showed up to users in order to make them share SafePrice on Facebook",
+      "message": "分享"
+   },
+   "spSocialSharetttr": {
+      "description": "It is showed up to users in order to make them share SafePrice on Twitter",
+      "message": "推文"
+   }
+}

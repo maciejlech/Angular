@@ -38,3 +38,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.genuitec.pulse.client.delivery.package.runtime 4 0 2018-06-17 10:41:02.366
 !MESSAGE Unable to load custom notification, the custom jar doesn't exist on G:\Users\ML\AppData\Local\Angular IDE 2017 CI\configuration\com.genuitec.pulse.client.delivery.package.runtime\latest\custom-notification\customNotification.jar
+
+!ENTRY com.genuitec.pulse.client.delivery.package.runtime 4 0 2018-06-17 11:41:27.686
+!MESSAGE Unable to load custom notification, the custom jar doesn't exist on G:\Users\ML\AppData\Local\Angular IDE 2017 CI\configuration\com.genuitec.pulse.client.delivery.package.runtime\latest\custom-notification\customNotification.jar

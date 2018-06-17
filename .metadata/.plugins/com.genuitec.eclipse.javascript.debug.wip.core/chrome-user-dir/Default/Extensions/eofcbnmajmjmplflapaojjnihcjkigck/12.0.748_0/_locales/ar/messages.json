@@ -1,0 +1,313 @@
+{
+   "avastAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "ابحث عن أفضل الأسعار والعروض والقسائم أثناء التسوق عبر الإنترنت مع مقارنة الأسعار وتمديد القسيمة بدعم من Avast."
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avgAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "ابحث عن أفضل الأسعار والعروض والقسائم أثناء التسوق عبر الإنترنت مع مقارنة الأسعار وتمديد القسيمة بدعم من AVG."
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "safePriceAskMeLater": {
+      "description": "It is showed to the user on the rating screen in order to offer it to rate extension later",
+      "message": "السؤال لاحقًا"
+   },
+   "safePriceEnjoyQuestion_AVG": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "هل تستمتع باستخدام \u003Cbr>AVG SafePrice؟"
+   },
+   "safePriceEnjoyQuestion_Avast": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "هل تستمتع باستخدام \u003Cbr>Avast SafePrice؟"
+   },
+   "safePriceLeaveRating": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "اترك لنا تقييمًا للإعراب عن مدى إعجابك به."
+   },
+   "sasAnswerNo": {
+      "message": "لا"
+   },
+   "sasAnswerYes": {
+      "message": "نعم"
+   },
+   "sasClickToCopy": {
+      "message": "انقر للنسخ"
+   },
+   "sasCouponAppliedOnPage": {
+      "message": "تم استخدام القسيمة في هذه الصفحة"
+   },
+   "sasCouponCodeCopied": {
+      "message": "نسخ الرمز إلى الحافظة."
+   },
+   "sasGladYouLike": {
+      "message": "سعداء أنك أحببته!"
+   },
+   "sasHintSettings": {
+      "message": "الإعدادات"
+   },
+   "sasOpenShop": {
+      "message": "فتح المتجر"
+   },
+   "sasRate": {
+      "message": "التقييم الآن"
+   },
+   "sasSorry": {
+      "message": "نأسف لسماع ذلك"
+   },
+   "sasStartingPrice": {
+      "description": "%s is the minimum value off the price. Example: Starting at: $124.00",
+      "message": "يبدأ من: %s"
+   },
+   "sasWhatToDo": {
+      "message": "ماذا يمكن أن نفعل للتحسين؟"
+   },
+   "sasfeedback": {
+      "message": "إعطاء ملاحظات"
+   },
+   "save": {
+      "message": "توفير"
+   },
+   "spAdditionalFees": {
+      "message": "قد يتم فرض رسوم وضرائب إضافية"
+   },
+   "spApply": {
+      "message": "تطبيق القسيمة"
+   },
+   "spBetterOffersNotificationBarMessage": {
+      "message": "أوه انظر، مزيد من العروض"
+   },
+   "spBetterOffersNotificationMessage": {
+      "message": "أوه، انظر\u003Cbr> مزيد من العروض"
+   },
+   "spBetterSpecialDealsNotificationBarMessage": {
+      "message": "مزيد من العروض، مزيد من التوفير!"
+   },
+   "spBetterSpecialDealsNotificationMessage": {
+      "message": "مزيد من العروض،\u003Cbr> مزيد من التوفير!"
+   },
+   "spCityHotelNotificationMessage": {
+      "message": "الفنادق المشهورة:"
+   },
+   "spCloseTooltip": {
+      "message": "إغلاق"
+   },
+   "spCopyAtCheckOut": {
+      "message": "نسخ ولصق عند السداد مع الخروج:"
+   },
+   "spCouponApplied": {
+      "message": "تم تطبيق القسيمة."
+   },
+   "spCouponsAvailableText": {
+      "message": "متوفر"
+   },
+   "spCouponsExpiration": {
+      "message": "تنتهي في: "
+   },
+   "spCouponsNotificationMessage": {
+      "message": "توفير الأموال باستخدام القسائم"
+   },
+   "spCouponsSelected": {
+      "message": "القسائم المحددة: "
+   },
+   "spCouponsSelectedText": {
+      "message": "محدد"
+   },
+   "spCouponsTab": {
+      "message": "القسائم"
+   },
+   "spGetCouponCode": {
+      "message": "الحصول على الرمز"
+   },
+   "spHelpTooltip": {
+      "message": "التعليمات"
+   },
+   "spLoadingNotificationDescriptionMessage": {
+      "message": "الأمر يستحق الانتظار، نعد بذلك."
+   },
+   "spLoadingNotificationMessage": {
+      "message": "البحث عن العروض..."
+   },
+   "spMinimizeTooltip": {
+      "message": "تصغير"
+   },
+   "spNothingFoundCoupons": {
+      "message": "آه أوه...\u003Cbr>لم يتم العثور على كوبونات..."
+   },
+   "spNothingFoundOffers": {
+      "message": "آه أوه...\u003Cbr>لم يتم العثور على عروض..."
+   },
+   "spNothingFoundOthers": {
+      "message": "آه أوه...\u003Cbr>لم يتم العثور على عروض مميزة..."
+   },
+   "spNotificationRedirectShowLessMessage": {
+      "message": "أقل"
+   },
+   "spNotificationRedirectShowMoreMessage": {
+      "message": "المزيد"
+   },
+   "spNotificationRedirectShowRedirectMessage": {
+      "message": "إظهار العرض"
+   },
+   "spOfferSaving": {
+      "description": "%s will be the saving percentage of the best offer. Ex: SAVE 25%",
+      "message": "وفر %s"
+   },
+   "spOffersAndCouponsNotificationMessage": {
+      "message": "تم العثور على العروض والقسائم. يا لك من محظوظ!"
+   },
+   "spOffersTab": {
+      "message": "العروض"
+   },
+   "spOthersTab": {
+      "message": "أخرى"
+   },
+   "spSettingsPageCancel": {
+      "message": "إلغاء"
+   },
+   "spSettingsPageCustomList": {
+      "message": "قائمة مخصصة"
+   },
+   "spSettingsPageCustomListItemAdd": {
+      "message": "إضافة"
+   },
+   "spSettingsPageCustomListItemAddSite": {
+      "message": "إضافة موقع"
+   },
+   "spSettingsPageCustomListTitle": {
+      "message": "عدم إظهار أي إشعارات على مواقع الويب هذه:"
+   },
+   "spSettingsPageCustomListTitleDesc": {
+      "message": "(لا يزال يُمكنك الاطلاع على العروض والقسائم دائمًا من خلال النقر فوق رمز شريط الأدوات)"
+   },
+   "spSettingsPageHelp": {
+      "message": "التعليمات"
+   },
+   "spSettingsPageHelpCouponsTitle": {
+      "message": "3. القسائم"
+   },
+   "spSettingsPageHelpCouponsTitleDesc": {
+      "message": "لاستخدام إحدى القسائم، كل ما عليك فعله هو النقر فوقها. إذا كشفت عن رمز، فستحتاج إلى لصقه في الحقل المناسب أثناء سداد الرسوم. خلاف ذلك، يتم تطبيق القسيمة تلقائيًا."
+   },
+   "spSettingsPageHelpFAQsTitle": {
+      "message": "تعرف على المزيد في \u003Cspan class='asp-faqs-span'>الأسئلة الشائعة\u003C/span>."
+   },
+   "spSettingsPageHelpNotificationsTitle": {
+      "message": "1. الإشعارات"
+   },
+   "spSettingsPageHelpNotificationsTitleDesc": {
+      "message": "عندما يجد SafePrice عرضًا أو قسيمة متعلق ببحثك، سينبثق أحد الإشعارات. انقر فوق الزر الأخضر الكبير لمعرفة ما وجدناه لك."
+   },
+   "spSettingsPageHelpOffersTitle": {
+      "message": "2. العروض"
+   },
+   "spSettingsPageHelpOffersTitleDesc": {
+      "message": "سينقلك النقر فوق أحد العروض إلى متجر شريك موثوق به عبر الإنترنت، حيث ستحصل على السعر الجديد المدرج في الإشعار."
+   },
+   "spSettingsPageHelpOthersTitle": {
+      "message": "4. غير ذلك"
+   },
+   "spSettingsPageHelpOthersTitleDesc": {
+      "message": "سينقلك النقر فوق إحدى الصفقات المميزة المدرجة إلى متجر شريك موثوق به عبر الإنترنت."
+   },
+   "spSettingsPageSave": {
+      "message": "حفظ"
+   },
+   "spSettingsPageTitleAvast": {
+      "message": "إعدادات Avast SafePrice"
+   },
+   "spSettingsPageTitleAvg": {
+      "message": "إعدادات AVG SafePrice"
+   },
+   "spSettingsTabNotificationAccommodationsTitle": {
+      "message": "عروض أماكن الإقامة"
+   },
+   "spSettingsTabNotifications": {
+      "message": "الإشعارات"
+   },
+   "spSettingsTabNotificationsAccommodationsPopular": {
+      "message": "عرض الفنادق المشهورة في المنطقة المطلوبة"
+   },
+   "spSettingsTabNotificationsAccommodationsShowBetter": {
+      "message": "إظهار عندما يتوفر سعر أفضل للفندق"
+   },
+   "spSettingsTabNotificationsAccommodationsSimilar": {
+      "message": "عرض الفنادق التي تشبه ما أطلبه"
+   },
+   "spSettingsTabNotificationsCoupons": {
+      "message": "القسائم"
+   },
+   "spSettingsTabNotificationsCouponsHide": {
+      "message": "عدم إخطاري بالقسائم"
+   },
+   "spSettingsTabNotificationsCouponsHideDesc": {
+      "message": "(يُمكنك دائمًا الاطلاع على القسائم من خلال النقر فوق رمز شريط الأدوات)"
+   },
+   "spSettingsTabNotificationsCouponsShowAll": {
+      "message": "إظهار كلما توفرت قسيمة"
+   },
+   "spSettingsTabNotificationsCouponsShowOnce": {
+      "message": "إظهار مرة واحدة في كل موقع ويب فقط"
+   },
+   "spSettingsTabNotificationsOffers": {
+      "message": "العروض"
+   },
+   "spSettingsTabNotificationsOffersBetter": {
+      "message": "إظهار عند توفر سعر أفضل من السعر الأصلي فقط بالمتجر الإلكتروني "
+   },
+   "spSettingsTabNotificationsOffersHideAll": {
+      "message": "عدم إخطاري بالعروض الإلكترونية"
+   },
+   "spSettingsTabNotificationsOffersHideAllDesc": {
+      "message": "(يُمكنك دائمًا الاطلاع على العروض من خلال النقر فوق رمز شريط الأدوات)"
+   },
+   "spSettingsTabNotificationsOffersShowAll": {
+      "message": "إظهار عندما تتوفر عروض المتاجر الإلكترونية"
+   },
+   "spSettingsTabNotificationsOffersTitle": {
+      "message": "عروض المتاجر الإلكترونية"
+   },
+   "spSettingsTabNotificationsOthers": {
+      "message": "غير ذلك"
+   },
+   "spSettingsTabNotificationsOthersDesc": {
+      "message": "إخطاري بالعروض المميزة للفئات أخرى (النقل، والتمويل، وإمدادات الطاقة والمزيد)"
+   },
+   "spSettingsTabNotificationsOthersTitle": {
+      "message": "عروض خاصة"
+   },
+   "spSettingsTooltip": {
+      "message": "الإعدادات"
+   },
+   "spShippingLabel": {
+      "message": "الشحن والتسليم من"
+   },
+   "spShowNotificationMessage": {
+      "message": "عرض"
+   },
+   "spShowNotificationRedirectMessage": {
+      "message": "انظر ماذا وجدنا!"
+   },
+   "spSimilarHotelsMessage": {
+      "message": "فنادق بديلة"
+   },
+   "spSimilarHotelsNotificationMessage": {
+      "message": "تم العثور على فنادق بديلة!"
+   },
+   "spSocialShare": {
+      "description": "It is showed up to users in order to make them share SafePrice on Social Networks",
+      "message": "هل تستمتع بالتوفير؟ شارك ما استمتعت به مع غيرك!"
+   },
+   "spSocialShareFb": {
+      "description": "It is showed up to users in order to make them share SafePrice on Facebook",
+      "message": "مشاركة"
+   },
+   "spSocialSharetttr": {
+      "description": "It is showed up to users in order to make them share SafePrice on Twitter",
+      "message": "نشر على Twitter"
+   }
+}

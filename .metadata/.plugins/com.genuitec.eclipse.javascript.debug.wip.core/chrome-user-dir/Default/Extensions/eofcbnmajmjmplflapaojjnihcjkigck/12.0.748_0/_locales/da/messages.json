@@ -1,0 +1,313 @@
+{
+   "avastAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Find de bedste priser, tilbud og kuponer, når du shopper online, med prissammenligning og kuponforlængelse fra Avast."
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avgAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Find de bedste priser, tilbud og kuponer, når du shopper online, med prissammenligning og kuponforlængelse fra AVG."
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "safePriceAskMeLater": {
+      "description": "It is showed to the user on the rating screen in order to offer it to rate extension later",
+      "message": "Spørg mig senere"
+   },
+   "safePriceEnjoyQuestion_AVG": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Er du glad for \u003Cbr> AVG SafePrice?"
+   },
+   "safePriceEnjoyQuestion_Avast": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Er du glad for \u003Cbr> Avast SafePrice?"
+   },
+   "safePriceLeaveRating": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Bedøm os for at vise din kærlighed."
+   },
+   "sasAnswerNo": {
+      "message": "Nej"
+   },
+   "sasAnswerYes": {
+      "message": "Ja"
+   },
+   "sasClickToCopy": {
+      "message": "Klik for at kopiere"
+   },
+   "sasCouponAppliedOnPage": {
+      "message": "Kupon benyttet på denne side"
+   },
+   "sasCouponCodeCopied": {
+      "message": "Kode kopieret til udklipsholder."
+   },
+   "sasGladYouLike": {
+      "message": "Godt, at du kan lide det!"
+   },
+   "sasHintSettings": {
+      "message": "Indstillinger"
+   },
+   "sasOpenShop": {
+      "message": "Åbn butik"
+   },
+   "sasRate": {
+      "message": "Bedøm nu"
+   },
+   "sasSorry": {
+      "message": "Det er trist at høre"
+   },
+   "sasStartingPrice": {
+      "description": "%s is the minimum value off the price. Example: Starting at: $124.00",
+      "message": "Priser fra: %s"
+   },
+   "sasWhatToDo": {
+      "message": "Hvad kan vi gøre bedre?"
+   },
+   "sasfeedback": {
+      "message": "Giv feedback"
+   },
+   "save": {
+      "message": "Spar"
+   },
+   "spAdditionalFees": {
+      "message": "Yderligere takster og skatter kan gælde"
+   },
+   "spApply": {
+      "message": "Anvend kupon"
+   },
+   "spBetterOffersNotificationBarMessage": {
+      "message": "Se bare her! Flere tilbud"
+   },
+   "spBetterOffersNotificationMessage": {
+      "message": "Se bare her!\u003Cbr> Flere tilbud"
+   },
+   "spBetterSpecialDealsNotificationBarMessage": {
+      "message": "Flere tilbud, mere besparelse!"
+   },
+   "spBetterSpecialDealsNotificationMessage": {
+      "message": "Flere tilbud,\u003Cbr> mere besparelse!"
+   },
+   "spCityHotelNotificationMessage": {
+      "message": "Populære hoteller:"
+   },
+   "spCloseTooltip": {
+      "message": "Luk"
+   },
+   "spCopyAtCheckOut": {
+      "message": "Kopiér og indsæt ved kassen:"
+   },
+   "spCouponApplied": {
+      "message": "Kupon anvendt."
+   },
+   "spCouponsAvailableText": {
+      "message": "Tilgængelige"
+   },
+   "spCouponsExpiration": {
+      "message": "Udløber: "
+   },
+   "spCouponsNotificationMessage": {
+      "message": "Spar penge med kuponer"
+   },
+   "spCouponsSelected": {
+      "message": "Kuponer valgt: "
+   },
+   "spCouponsSelectedText": {
+      "message": "Valgte"
+   },
+   "spCouponsTab": {
+      "message": "Kuponer"
+   },
+   "spGetCouponCode": {
+      "message": "Hent kode"
+   },
+   "spHelpTooltip": {
+      "message": "Hjælp"
+   },
+   "spLoadingNotificationDescriptionMessage": {
+      "message": "Vi lover, at det er ventetiden værd."
+   },
+   "spLoadingNotificationMessage": {
+      "message": "Søger efter tilbud..."
+   },
+   "spMinimizeTooltip": {
+      "message": "Minimer"
+   },
+   "spNothingFoundCoupons": {
+      "message": "Åh nej...\u003Cbr>Ingen kuponer fundet..."
+   },
+   "spNothingFoundOffers": {
+      "message": "Åh nej...\u003Cbr>Ingen tilbud fundet..."
+   },
+   "spNothingFoundOthers": {
+      "message": "Åh nej...\u003Cbr>Ingen særtilbud fundet..."
+   },
+   "spNotificationRedirectShowLessMessage": {
+      "message": "Mindre"
+   },
+   "spNotificationRedirectShowMoreMessage": {
+      "message": "Mere"
+   },
+   "spNotificationRedirectShowRedirectMessage": {
+      "message": "VIS TILBUD"
+   },
+   "spOfferSaving": {
+      "description": "%s will be the saving percentage of the best offer. Ex: SAVE 25%",
+      "message": "Spar %s"
+   },
+   "spOffersAndCouponsNotificationMessage": {
+      "message": "Tilbud og kuponer fundet. Heldige dig!"
+   },
+   "spOffersTab": {
+      "message": "Tilbud"
+   },
+   "spOthersTab": {
+      "message": "Andre"
+   },
+   "spSettingsPageCancel": {
+      "message": "Annuller"
+   },
+   "spSettingsPageCustomList": {
+      "message": "Brugerdefineret liste"
+   },
+   "spSettingsPageCustomListItemAdd": {
+      "message": "Tilføj"
+   },
+   "spSettingsPageCustomListItemAddSite": {
+      "message": "Tilføj websted"
+   },
+   "spSettingsPageCustomListTitle": {
+      "message": "Vis ikke notifikationer på disse websteder:"
+   },
+   "spSettingsPageCustomListTitleDesc": {
+      "message": "(du kan altid se tilbud og kuponer ved at klikke på værktøjslinjens ikon)"
+   },
+   "spSettingsPageHelp": {
+      "message": "Hjælp"
+   },
+   "spSettingsPageHelpCouponsTitle": {
+      "message": "3. Kuponer"
+   },
+   "spSettingsPageHelpCouponsTitleDesc": {
+      "message": "Du bruger en kupon ved blot at klikke på den. Hvis den viser en kode, skal du indsætte den i det relevante felt under købet. Ellers anvendes kuponen automatisk."
+   },
+   "spSettingsPageHelpFAQsTitle": {
+      "message": "Se mere i \u003Cspan class='asp-faqs-span'>FAQs\u003C/span>."
+   },
+   "spSettingsPageHelpNotificationsTitle": {
+      "message": "1. Notifikationer"
+   },
+   "spSettingsPageHelpNotificationsTitleDesc": {
+      "message": "Når SafePrice finder et tilbud eller en kupon, der er relateret til din søgning, vises der en notifikation. Klik på den store grønne knap for at se, hvad vi har fundet til dig."
+   },
+   "spSettingsPageHelpOffersTitle": {
+      "message": "2. Tilbud"
+   },
+   "spSettingsPageHelpOffersTitleDesc": {
+      "message": "Klik på et tilbud for at gå til en partners sikre onlinebutik, hvor du får den nye pris, der fremgår af notifikationen."
+   },
+   "spSettingsPageHelpOthersTitle": {
+      "message": "4. Andet"
+   },
+   "spSettingsPageHelpOthersTitleDesc": {
+      "message": "Klik på et vist særtilbud for at gå til en partners sikre onlinebutik."
+   },
+   "spSettingsPageSave": {
+      "message": "Gem"
+   },
+   "spSettingsPageTitleAvast": {
+      "message": "Avast SafePrice-indstillinger"
+   },
+   "spSettingsPageTitleAvg": {
+      "message": "AVG SafePrice-indstillinger"
+   },
+   "spSettingsTabNotificationAccommodationsTitle": {
+      "message": "Hoteltilbud"
+   },
+   "spSettingsTabNotifications": {
+      "message": "Notifikationer"
+   },
+   "spSettingsTabNotificationsAccommodationsPopular": {
+      "message": "Vis populært hotel i anmodet område"
+   },
+   "spSettingsTabNotificationsAccommodationsShowBetter": {
+      "message": "Vis, når der er en bedre hotelpris tilgængelig"
+   },
+   "spSettingsTabNotificationsAccommodationsSimilar": {
+      "message": "Vis lignende hoteller til det, jeg søger efter"
+   },
+   "spSettingsTabNotificationsCoupons": {
+      "message": "Kuponer"
+   },
+   "spSettingsTabNotificationsCouponsHide": {
+      "message": "Send mig ikke beskeder om kuponer"
+   },
+   "spSettingsTabNotificationsCouponsHideDesc": {
+      "message": "(du kan altid se kuponer ved at klikke på værktøjslinjens ikon)"
+   },
+   "spSettingsTabNotificationsCouponsShowAll": {
+      "message": "Vis, når der er en kupon tilgængelig"
+   },
+   "spSettingsTabNotificationsCouponsShowOnce": {
+      "message": "Vis kun én gang per websted"
+   },
+   "spSettingsTabNotificationsOffers": {
+      "message": "Tilbud"
+   },
+   "spSettingsTabNotificationsOffersBetter": {
+      "message": "Vis kun, når der er et bedre tilbud fra e-butikker end normalprisen"
+   },
+   "spSettingsTabNotificationsOffersHideAll": {
+      "message": "Send mig ikke beskeder om tilbud fra e-butikker"
+   },
+   "spSettingsTabNotificationsOffersHideAllDesc": {
+      "message": "(du kan altid se tilbud ved at klikke på værktøjslinjens ikon)"
+   },
+   "spSettingsTabNotificationsOffersShowAll": {
+      "message": "Vis, hvornår tilbud fra e-butik er tilgængelige"
+   },
+   "spSettingsTabNotificationsOffersTitle": {
+      "message": "Tilbud fra e-butikker"
+   },
+   "spSettingsTabNotificationsOthers": {
+      "message": "Andet"
+   },
+   "spSettingsTabNotificationsOthersDesc": {
+      "message": "Giv mig besked om særtilbud for andre kategorier (transport, finans, strømforsyning og mere)"
+   },
+   "spSettingsTabNotificationsOthersTitle": {
+      "message": "Særtilbud"
+   },
+   "spSettingsTooltip": {
+      "message": "Indstillinger"
+   },
+   "spShippingLabel": {
+      "message": "Transport-/ekspeditionsgebyr fra"
+   },
+   "spShowNotificationMessage": {
+      "message": "VIS"
+   },
+   "spShowNotificationRedirectMessage": {
+      "message": "Se, hvad vi har fundet!"
+   },
+   "spSimilarHotelsMessage": {
+      "message": "Alternative hoteller"
+   },
+   "spSimilarHotelsNotificationMessage": {
+      "message": "Alternative hoteller fundet!"
+   },
+   "spSocialShare": {
+      "description": "It is showed up to users in order to make them share SafePrice on Social Networks",
+      "message": "Er du til besparelser? Spred budskabet!"
+   },
+   "spSocialShareFb": {
+      "description": "It is showed up to users in order to make them share SafePrice on Facebook",
+      "message": "Del"
+   },
+   "spSocialSharetttr": {
+      "description": "It is showed up to users in order to make them share SafePrice on Twitter",
+      "message": "Tweet"
+   }
+}

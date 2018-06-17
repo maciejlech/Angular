@@ -1,0 +1,313 @@
+{
+   "avastAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Găsiți cele mai bune prețuri, oferte și cupoane la cumpărături online, cu comparație prețuri și prelungire cupoane girate de Avast."
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avgAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Găsiți cele mai bune prețuri, oferte şi cupoane la cumpărături online, cu comparație prețuri și prelungire cupoane girate de AVG."
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "safePriceAskMeLater": {
+      "description": "It is showed to the user on the rating screen in order to offer it to rate extension later",
+      "message": "Întreabă-mă mai târziu"
+   },
+   "safePriceEnjoyQuestion_AVG": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Sunteți mulțumit de utilizarea \u003Cbr> AVG SafePrice?"
+   },
+   "safePriceEnjoyQuestion_Avast": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Sunteți mulțumit de utilizarea \u003Cbr> Avast SafePrice?"
+   },
+   "safePriceLeaveRating": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Lăsați-ne o evaluare privind satisfacția dumneavoastră."
+   },
+   "sasAnswerNo": {
+      "message": "nu"
+   },
+   "sasAnswerYes": {
+      "message": "da"
+   },
+   "sasClickToCopy": {
+      "message": "Clic pentru copiere"
+   },
+   "sasCouponAppliedOnPage": {
+      "message": "Cupon aplicat pe această pagină"
+   },
+   "sasCouponCodeCopied": {
+      "message": "Codul este copiat în clipboard."
+   },
+   "sasGladYouLike": {
+      "message": "Suntem încântați că vă place!"
+   },
+   "sasHintSettings": {
+      "message": "Setări"
+   },
+   "sasOpenShop": {
+      "message": "Deschidere magazin"
+   },
+   "sasRate": {
+      "message": "Faceți evaluarea acum"
+   },
+   "sasSorry": {
+      "message": "Ne pare rău să aflăm acest lucru"
+   },
+   "sasStartingPrice": {
+      "description": "%s is the minimum value off the price. Example: Starting at: $124.00",
+      "message": "Începând de la: %s"
+   },
+   "sasWhatToDo": {
+      "message": "Ce putem face pentru a îmbunătăți situația?"
+   },
+   "sasfeedback": {
+      "message": "oferiți-ne feedback"
+   },
+   "save": {
+      "message": "Economisiți"
+   },
+   "spAdditionalFees": {
+      "message": "Se pot aplica taxe și comisioane suplimentare"
+   },
+   "spApply": {
+      "message": "Aplicare cupon"
+   },
+   "spBetterOffersNotificationBarMessage": {
+      "message": "Ia te uită! Oferte mai multe"
+   },
+   "spBetterOffersNotificationMessage": {
+      "message": "Ia te uită!\u003Cbr> Oferte mai multe"
+   },
+   "spBetterSpecialDealsNotificationBarMessage": {
+      "message": "Mai multe oferte, mai multe economii!"
+   },
+   "spBetterSpecialDealsNotificationMessage": {
+      "message": "Mai multe oferte,\u003Cbr> mai multe economii!"
+   },
+   "spCityHotelNotificationMessage": {
+      "message": "Hoteluri populare:"
+   },
+   "spCloseTooltip": {
+      "message": "Închidere"
+   },
+   "spCopyAtCheckOut": {
+      "message": "Copiere și lipire pentru plată:"
+   },
+   "spCouponApplied": {
+      "message": "Cupon aplicat."
+   },
+   "spCouponsAvailableText": {
+      "message": "Disponibile"
+   },
+   "spCouponsExpiration": {
+      "message": "Expiră la: "
+   },
+   "spCouponsNotificationMessage": {
+      "message": "Economisiți bani prin utilizarea cupoanelor"
+   },
+   "spCouponsSelected": {
+      "message": "Cupoane selectate: "
+   },
+   "spCouponsSelectedText": {
+      "message": "Selectate"
+   },
+   "spCouponsTab": {
+      "message": "Cupoane"
+   },
+   "spGetCouponCode": {
+      "message": "Obținere cod"
+   },
+   "spHelpTooltip": {
+      "message": "Ajutor"
+   },
+   "spLoadingNotificationDescriptionMessage": {
+      "message": "Merită să așteptați, nu veți fi dezamăgit(ă)."
+   },
+   "spLoadingNotificationMessage": {
+      "message": "Se caută oferte..."
+   },
+   "spMinimizeTooltip": {
+      "message": "Minimizare"
+   },
+   "spNothingFoundCoupons": {
+      "message": "O, nu...\u003Cbr>Nu am găsit niciun cupon..."
+   },
+   "spNothingFoundOffers": {
+      "message": "O, nu...\u003Cbr>Nu am găsit nicio ofertă..."
+   },
+   "spNothingFoundOthers": {
+      "message": "O, nu...\u003Cbr>Nu am găsit nicio ofertă specială..."
+   },
+   "spNotificationRedirectShowLessMessage": {
+      "message": "Mai puține"
+   },
+   "spNotificationRedirectShowMoreMessage": {
+      "message": "Mai multe"
+   },
+   "spNotificationRedirectShowRedirectMessage": {
+      "message": "AFIȘARE OFERTĂ"
+   },
+   "spOfferSaving": {
+      "description": "%s will be the saving percentage of the best offer. Ex: SAVE 25%",
+      "message": "Economisiți %s"
+   },
+   "spOffersAndCouponsNotificationMessage": {
+      "message": "S-au găsit oferte și cupoane. Ce șansă!"
+   },
+   "spOffersTab": {
+      "message": "Oferte"
+   },
+   "spOthersTab": {
+      "message": "Altele"
+   },
+   "spSettingsPageCancel": {
+      "message": "Anulare"
+   },
+   "spSettingsPageCustomList": {
+      "message": "Listă particularizată"
+   },
+   "spSettingsPageCustomListItemAdd": {
+      "message": "Adăugare"
+   },
+   "spSettingsPageCustomListItemAddSite": {
+      "message": "Adăugare site"
+   },
+   "spSettingsPageCustomListTitle": {
+      "message": "Nu se afișează nicio notificare de pe aceste site-uri Web:"
+   },
+   "spSettingsPageCustomListTitleDesc": {
+      "message": "(puteți vedea totuși ofertele și cupoanele, făcând clic pe pictograma din bara de instrumente)"
+   },
+   "spSettingsPageHelp": {
+      "message": "Ajutor"
+   },
+   "spSettingsPageHelpCouponsTitle": {
+      "message": "3. Cupoane"
+   },
+   "spSettingsPageHelpCouponsTitleDesc": {
+      "message": "Pentru a utiliza un cupon, tot ce trebuie să faceți este să dați clic pe el. În cazul în care se dezvăluie un cod, trebuie să-l inserați în câmpul adecvat în timpul plății. În caz contrar, cuponul este aplicat în mod automat."
+   },
+   "spSettingsPageHelpFAQsTitle": {
+      "message": "Aflați mai multe din \u003Cspan class='asp-faqs-span'>Întrebări frecvente\u003C/span>."
+   },
+   "spSettingsPageHelpNotificationsTitle": {
+      "message": "1. Notificări"
+   },
+   "spSettingsPageHelpNotificationsTitleDesc": {
+      "message": "Când SafePrice găsește o ofertă sau un cupon corespunzătoare căutării, va apărea o notificare. Faceți clic pe butonul mare verde pentru a vedea ce am găsit pentru dvs."
+   },
+   "spSettingsPageHelpOffersTitle": {
+      "message": "2. Oferte"
+   },
+   "spSettingsPageHelpOffersTitleDesc": {
+      "message": "Făcând clic pe o ofertă veți ajunge la magazinul online de încredere al unui partener, unde veți găsi noul preț prezentat în notificare."
+   },
+   "spSettingsPageHelpOthersTitle": {
+      "message": "4. Altele"
+   },
+   "spSettingsPageHelpOthersTitleDesc": {
+      "message": "Făcând clic pe o ofertă specială afișată, veți ajunge la magazinul online de încredere al unui partener."
+   },
+   "spSettingsPageSave": {
+      "message": "Salvare"
+   },
+   "spSettingsPageTitleAvast": {
+      "message": "Setări Avast SafePrice"
+   },
+   "spSettingsPageTitleAvg": {
+      "message": "Setări AVG SafePrice"
+   },
+   "spSettingsTabNotificationAccommodationsTitle": {
+      "message": "Oferte de cazare"
+   },
+   "spSettingsTabNotifications": {
+      "message": "Notificări"
+   },
+   "spSettingsTabNotificationsAccommodationsPopular": {
+      "message": "Afișare hoteluri populare în zona solicitată"
+   },
+   "spSettingsTabNotificationsAccommodationsShowBetter": {
+      "message": "Afișare întotdeauna când este disponibil un preț mai bun pentru hotel"
+   },
+   "spSettingsTabNotificationsAccommodationsSimilar": {
+      "message": "Afișare hoteluri similare cu ceea ce solicit"
+   },
+   "spSettingsTabNotificationsCoupons": {
+      "message": "Cupoane"
+   },
+   "spSettingsTabNotificationsCouponsHide": {
+      "message": "Nu vreau să primesc notificări despre cupoane"
+   },
+   "spSettingsTabNotificationsCouponsHideDesc": {
+      "message": "(puteți vedea întotdeauna cupoanele, făcând clic pe pictograma din bara de instrumente)"
+   },
+   "spSettingsTabNotificationsCouponsShowAll": {
+      "message": "Afișare de fiecare dată când este disponibil un cupon"
+   },
+   "spSettingsTabNotificationsCouponsShowOnce": {
+      "message": "Afișare numai o singură dată pe fiecare site Web"
+   },
+   "spSettingsTabNotificationsOffers": {
+      "message": "Oferte"
+   },
+   "spSettingsTabNotificationsOffersBetter": {
+      "message": "Afișare numai când sunt disponibile oferte de la magazine electronice, mai bune decât prețul original"
+   },
+   "spSettingsTabNotificationsOffersHideAll": {
+      "message": "Nu vreau să primesc notificări despre ofertele de la magazine electronice"
+   },
+   "spSettingsTabNotificationsOffersHideAllDesc": {
+      "message": "(puteți vedea întotdeauna ofertele, făcând clic pe pictograma din bara de instrumente)"
+   },
+   "spSettingsTabNotificationsOffersShowAll": {
+      "message": "Afișare de fiecare dată când sunt disponibile oferte de la magazine electronice"
+   },
+   "spSettingsTabNotificationsOffersTitle": {
+      "message": "Oferte de la magazine electronice"
+   },
+   "spSettingsTabNotificationsOthers": {
+      "message": "Altele"
+   },
+   "spSettingsTabNotificationsOthersDesc": {
+      "message": "Vreau să primesc notificări despre oferte speciale pentru alte categorii (transport, finanțe, alimentare cu energie și altele)"
+   },
+   "spSettingsTabNotificationsOthersTitle": {
+      "message": "Oferte speciale"
+   },
+   "spSettingsTooltip": {
+      "message": "Setări"
+   },
+   "spShippingLabel": {
+      "message": "T/M de la"
+   },
+   "spShowNotificationMessage": {
+      "message": "AFIȘARE"
+   },
+   "spShowNotificationRedirectMessage": {
+      "message": "Iată ce am găsit!"
+   },
+   "spSimilarHotelsMessage": {
+      "message": "Hoteluri alternative"
+   },
+   "spSimilarHotelsNotificationMessage": {
+      "message": "S-au găsit și alte hoteluri!"
+   },
+   "spSocialShare": {
+      "description": "It is showed up to users in order to make them share SafePrice on Social Networks",
+      "message": "Vă place să faceți economii? Trimiteți și altora!"
+   },
+   "spSocialShareFb": {
+      "description": "It is showed up to users in order to make them share SafePrice on Facebook",
+      "message": "Partajare"
+   },
+   "spSocialSharetttr": {
+      "description": "It is showed up to users in order to make them share SafePrice on Twitter",
+      "message": "Trimitere mesaj pe Tweeter"
+   }
+}

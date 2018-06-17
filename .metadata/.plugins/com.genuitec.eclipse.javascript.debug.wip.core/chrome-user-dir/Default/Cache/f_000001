@@ -1,0 +1,333 @@
+webpackJsonp(["main"],{
+
+/***/ "../../../../../src/$$_lazy_route_resource lazy recursive":
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = "../../../../../src/$$_lazy_route_resource lazy recursive";
+
+/***/ }),
+
+/***/ "../../../../../src/app/app.component.css":
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "/* Application-wide Styles */\r\nh1 {\r\n  color: #369;\r\n  font-family: Arial, Helvetica, sans-serif;\r\n  font-size: 250%;\r\n}\r\nh2, h3 {\r\n  color: #444;\r\n  font-family: Arial, Helvetica, sans-serif;\r\n  font-weight: lighter;\r\n}\r\nbody {\r\n  margin: 2em;\r\n}\r\nbody, input[text], button {\r\n  color: #888;\r\n  font-family: Cambria, Georgia;\r\n}\r\n/* everywhere else */\r\n* {\r\n  font-family: Arial, Helvetica, sans-serif;\r\n}\r\n", ""]);
+
+// exports
+
+
+/*** EXPORTS FROM exports-loader ***/
+module.exports = module.exports.toString();
+
+/***/ }),
+
+/***/ "../../../../../src/app/app.component.html":
+/***/ (function(module, exports) {
+
+module.exports = "<!--Przyk�adowy komentarz tak oznaczamy przyk�ady-->\r\n<!-- Ctrl + Shift + / dodanie aut komentarza  -->\r\n<div style=\"text-align:center; color:blue;\">\r\n  <h1>\r\n    Welcome to {{ title }}! Wzor 2 Komponenty \r\n    <!--{{title}} odwo�anie do zmiennej title w root component czyli\r\n    app.component.ts -->\r\n    <!-- kolor ci�gnie z css h1 -->\r\n  </h1>\r\n  Ponizej widok lub linki do komponentow:\r\n  <br/>\r\n  <app-comp1></app-comp1>\r\n  <!-- Odwo�anie do komponentu: app-comp1 -->\r\n  <br/>\r\n  <app-cos2></app-cos2>\r\n  <br/>\r\n  <br/>\r\n  <br/>\r\n  <br/>  \r\n  <br/>\r\n  A ponizej lekcja wczesniejsza :) Css zmieniono na ten z tutoriala\r\n  <br/>\r\n  <!-- znacznik h1 oznacza nag�owek h1 do uzrywania styl�w css  -->\r\n  <img width=\"300\" alt=\"Angular Logo\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==\">\r\n  <!--  znacznik img oznacza obrazek wymagane alt i src \r\n  dokumentacja przykladowa https://www.w3schools.com/html/html_images.asp-->\r\n  Dodatkowy tekst zeby sprawdzic kolor bez przerwy\r\n  <br/>\r\n  \r\n  <!--<br/> znacznik przerwy !!!!!!!zawsze zapominam :)  -->\r\n  Dodatkowy tekst zeby sprawdzic kolor z przerwa\r\n  <br/>\r\n  <img width=\"300\" alt= \"Test plik jpg \" src=\"assets/test.jpg\" >\r\n  <br/>\r\n  <img alt= \"Test plik gif \" src=\"assets/cos/test1.gif\" >\r\n  <br/>\r\n  <img alt= \"Test plik jpg w src \" src=\"/test.jpg\" >\r\n  <!-- trzeci nie dziala obrazki musza by� w /assets inaczej nie dzialaja  -->\r\n  <br/>\r\n\r\n</div>\r\n\r\n<!-- znacznik div oznacza blok do kt�rego ustawiono jakie� atrybuty:\r\ntutaj dla atrybutu \"style\" ustawiono text-align oraz color   \r\n�r�d�o https://www.w3schools.com/html/html_blocks.asp -->\r\n\r\n<h2>Testowe linki</h2>\r\n<ul>\r\n  <li>\r\n    <h2><a target=\"_blank\" rel=\"noopener\" href=\"https://angular.io/tutorial\">Tour of Heroes</a></h2>\r\n  </li>\r\n  <li>\r\n    <h2><a target=\"_blank\" rel=\"noopener\" href=\"https://github.com/angular/angular-cli/wiki\">CLI Documentation</a></h2>\r\n  </li>\r\n  <li>\r\n    <h2><a target=\"_blank\" rel=\"noopener\" href=\"https://blog.angular.io/\">Angular blog</a></h2>\r\n  </li>\r\n  <li> <a href=\"https://www.wp.pl/\">Testowy link WP</a>\r\n  <!-- tag \"<a\" otwiera  hyperlinks; dokumentacja techniczna:  \r\n  https://www.w3schools.com/html/html_links.asp -->\r\n</ul>\r\n<!--  znacznik ul oznacza nieponumerowana lista ; \r\npodpunkty oznaczona jako li poni�ej przyk�ad-->\r\n<ul>\r\n<li> B pnkt </li>\r\n<li> Z pnkt </li>\r\n<li> A pnkt </li> \r\n</ul>\r\n<!-- poni�ej to samo za pomoc� znacznik ol ( ponumerowana lista)  -->\r\n<ol>\r\n<li> B pnkt </li>\r\n<li> Z pnkt </li>\r\n<li> A pnkt </li> \r\n</ol>\r\n<h3> Wyswietlona zmienna 2 to:\r\n <br/>\r\n {{zm2}}\r\n  <br/>\r\n Oraz zmienna 3 to: {{zm3}}\r\n </h3>\r\n<!-- test linku w komentarzu .....  -->\r\n\r\n\r\n\r\n"
+
+/***/ }),
+
+/***/ "../../../../../src/app/app.component.ts":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+var core_1 = __webpack_require__("../../../core/esm5/core.js");
+var AppComponent = /** @class */ (function () {
+    function AppComponent() {
+        this.title = 'moja aplikacja';
+        this.zm2 = 'Zmienna tekstowa 2 i jeszcze tekst';
+        this.zm3 = 6;
+        this.__clMeta = { "componentPath": "G:\\Users\\ML\\Documents\\GitHub\\Angular\\Nauka-wzor002-poczatki\\src\\app\\app.component.ts", "styleUrls": ["G:\\Users\\ML\\Documents\\GitHub\\Angular\\Nauka-wzor002-poczatki\\src\\app\\app.component.css"], "templateUrl": "G:\\Users\\ML\\Documents\\GitHub\\Angular\\Nauka-wzor002-poczatki\\src\\app\\app.component.html" };
+    }
+    AppComponent = __decorate([
+        core_1.Component({
+            selector: 'app-root',
+            template: __webpack_require__("../../../../../src/app/app.component.html"),
+            styles: [__webpack_require__("../../../../../src/app/app.component.css")]
+        })
+    ], AppComponent);
+    return AppComponent;
+}());
+exports.AppComponent = AppComponent;
+
+
+/***/ }),
+
+/***/ "../../../../../src/app/app.module.ts":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+var platform_browser_1 = __webpack_require__("../../../platform-browser/esm5/platform-browser.js");
+var core_1 = __webpack_require__("../../../core/esm5/core.js");
+var forms_1 = __webpack_require__("../../../forms/esm5/forms.js");
+/** Dodano r�cznie import FormsModule */
+var app_component_1 = __webpack_require__("../../../../../src/app/app.component.ts");
+var comp1_component_1 = __webpack_require__("../../../../../src/app/comp1/comp1.component.ts");
+var comp2_component_1 = __webpack_require__("../../../../../src/app/comp2/comp2.component.ts");
+var AppModule = /** @class */ (function () {
+    function AppModule() {
+    }
+    AppModule = __decorate([
+        core_1.NgModule({
+            declarations: [
+                app_component_1.AppComponent,
+                comp1_component_1.Comp1Component,
+                comp2_component_1.Comp2Component
+            ],
+            imports: [
+                platform_browser_1.BrowserModule,
+                forms_1.FormsModule
+                /** Dodano r�cznie import FormsModule */
+            ],
+            providers: [],
+            bootstrap: [app_component_1.AppComponent]
+        })
+    ], AppModule);
+    return AppModule;
+}());
+exports.AppModule = AppModule;
+
+
+/***/ }),
+
+/***/ "../../../../../src/app/comp1/comp1.component.css":
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "", ""]);
+
+// exports
+
+
+/*** EXPORTS FROM exports-loader ***/
+module.exports = module.exports.toString();
+
+/***/ }),
+
+/***/ "../../../../../src/app/comp1/comp1.component.html":
+/***/ (function(module, exports) {
+
+module.exports = "POCZATEK comp1\r\n<br/>\r\n{{zm1comp1}}\r\n<br/>\r\n<h2>{{zm2comp1.name | uppercase}} Detale zm2comp1:</h2>\r\n<!-- | powoduje zastosowanie wbudowanego pipa: uppercase -->\r\n<!-- wzor pipe opisany .......(do zrobienia) -->\r\n<br/>\r\n<div><span>id: </span>{{zm2comp1.id}}</div>\r\n<div><span>name: </span>{{zm2comp1.name}}</div>\r\n<!-- tag span og�lnie pozwala cz�ciowo zmieniac wyswitlany tekst\r\nhttps://www.w3schools.com/tags/tag_span.asp  -->\r\n<br/>\r\n<br/>\r\n{{zm3.name2}}\r\n<br/>\r\n<!-- Poni�ej two way bindings z formularzem -->\r\n\r\n<div>\r\n    <label>name:\r\n      <input [(ngModel)]=\"zm3.name2\" >\r\n      <input [(ngModel)]=\"zm3.id2\" >\r\n      <!-- ngModel wymaga importu w klasie g��wnej !!!!!! -->\r\n      <!-- sk�adnia do sprawdzenia -->\r\n    </label>\r\n    <br/>\r\n\r\n    <br/>\r\n\r\n    Koniec comp1\r\n</div>\r\n\r\n"
+
+/***/ }),
+
+/***/ "../../../../../src/app/comp1/comp1.component.ts":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+var core_1 = __webpack_require__("../../../core/esm5/core.js");
+/** Testowy komentarz. */
+/** Wzorcowy komponent !!!!!!!!!!!*/
+var Comp1Component = /** @class */ (function () {
+    function Comp1Component() {
+        /** Prawdopodobnie deklaracja klasy w TS*/
+        this.zm1comp1 = 'zm1comp1 Jakis teks bez polskich znakow';
+        this.zm2comp1 = {
+            id: 1,
+            name: 'Tekst zmiennej zm1comp1'
+        };
+        this.zm3 = {
+            id2: 7,
+            name2: 'Tekst zm3 com1'
+        };
+        this.__clMeta = { "componentPath": "G:\\Users\\ML\\Documents\\GitHub\\Angular\\Nauka-wzor002-poczatki\\src\\app\\comp1\\comp1.component.ts", "styleUrls": ["G:\\Users\\ML\\Documents\\GitHub\\Angular\\Nauka-wzor002-poczatki\\src\\app\\comp1\\comp1.component.css"], "templateUrl": "G:\\Users\\ML\\Documents\\GitHub\\Angular\\Nauka-wzor002-poczatki\\src\\app\\comp1\\comp1.component.html" };
+    }
+    /** Prawdopodobnie stand kontruktor do sprawdzenia pozniej*/
+    Comp1Component.prototype.ngOnInit = function () {
+        /** Testowy komentarz. */
+    };
+    Comp1Component = __decorate([
+        core_1.Component({
+            selector: 'app-comp1',
+            template: __webpack_require__("../../../../../src/app/comp1/comp1.component.html"),
+            styles: [__webpack_require__("../../../../../src/app/comp1/comp1.component.css")]
+        }),
+        __metadata("design:paramtypes", [])
+    ], Comp1Component);
+    return Comp1Component;
+}());
+exports.Comp1Component = Comp1Component;
+
+
+/***/ }),
+
+/***/ "../../../../../src/app/comp2/comp2.component.css":
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "", ""]);
+
+// exports
+
+
+/*** EXPORTS FROM exports-loader ***/
+module.exports = module.exports.toString();
+
+/***/ }),
+
+/***/ "../../../../../src/app/comp2/comp2.component.html":
+/***/ (function(module, exports) {
+
+module.exports = "<div>\r\n  Poczatek comp2\r\n i cos dla github<br/>\r\n    <label>inne :\r\n            <input [(ngModel)]=\"zm1com2\" >\r\n      <!-- sk�adnia do sprawdzenia -->\r\n    </label>\r\n    <br/>\r\n{{zm1com2}}\r\n    <br/>\r\n Koniec comp 2\r\n    <br/>\r\n    I cos jeszcze\r\n</div>\r\n  \r\n  \r\n  \r\n\r\n"
+
+/***/ }),
+
+/***/ "../../../../../src/app/comp2/comp2.component.ts":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+var core_1 = __webpack_require__("../../../core/esm5/core.js");
+var Comp2Component = /** @class */ (function () {
+    function Comp2Component() {
+        this.zm1com2 = 'cos';
+        this.__clMeta = { "componentPath": "G:\\Users\\ML\\Documents\\GitHub\\Angular\\Nauka-wzor002-poczatki\\src\\app\\comp2\\comp2.component.ts", "styleUrls": ["G:\\Users\\ML\\Documents\\GitHub\\Angular\\Nauka-wzor002-poczatki\\src\\app\\comp2\\comp2.component.css"], "templateUrl": "G:\\Users\\ML\\Documents\\GitHub\\Angular\\Nauka-wzor002-poczatki\\src\\app\\comp2\\comp2.component.html" };
+    }
+    Comp2Component.prototype.ngOnInit = function () {
+    };
+    Comp2Component = __decorate([
+        core_1.Component({
+            selector: 'app-cos2',
+            template: __webpack_require__("../../../../../src/app/comp2/comp2.component.html"),
+            styles: [__webpack_require__("../../../../../src/app/comp2/comp2.component.css")]
+        }),
+        __metadata("design:paramtypes", [])
+    ], Comp2Component);
+    return Comp2Component;
+}());
+exports.Comp2Component = Comp2Component;
+
+
+/***/ }),
+
+/***/ "../../../../../src/environments/environment.ts":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+// The file contents for the current environment will overwrite these during build.
+// The build system defaults to the dev environment which uses `environment.ts`, but if you do
+// `ng build --env=prod` then `environment.prod.ts` will be used instead.
+// The list of which env maps to which file can be found in `.angular-cli.json`.
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.environment = {
+    production: false
+};
+
+
+/***/ }),
+
+/***/ "../../../../../src/main.ts":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+Object.defineProperty(exports, "__esModule", { value: true });
+var core_1 = __webpack_require__("../../../core/esm5/core.js");
+var platform_browser_dynamic_1 = __webpack_require__("../../../platform-browser-dynamic/esm5/platform-browser-dynamic.js");
+var app_module_1 = __webpack_require__("../../../../../src/app/app.module.ts");
+var environment_1 = __webpack_require__("../../../../../src/environments/environment.ts");
+if (environment_1.environment.production) {
+    core_1.enableProdMode();
+}
+platform_browser_dynamic_1.platformBrowserDynamic().bootstrapModule(app_module_1.AppModule)
+    .catch(function (err) { return console.log(err); });
+
+
+/***/ }),
+
+/***/ "../../../../webpack/hot ^\\.\\/log$":
+/***/ (function(module, exports, __webpack_require__) {
+
+var map = {
+	"./log": "../../../../webpack/hot/log.js"
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = "../../../../webpack/hot ^\\.\\/log$";
+
+/***/ }),
+
+/***/ 0:
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__("../../../../webpack-dev-server/client/index.js?http://0.0.0.0:0");
+module.exports = __webpack_require__("../../../../../src/main.ts");
+
+
+/***/ })
+
+},[0]);
+//# sourceMappingURL=main.bundle.js.map
